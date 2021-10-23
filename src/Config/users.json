@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Parth Shahu",
+        "email": "parth@mail.com",
+        "password": "Parth@123",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6InBhcnRoIHNoYWh1IiwiaWF0IjoxfQ.4A1KeK_h8YzU-5u3C41hTEMIAc7REUaFrRSiptqARqE"
+    },
+    {
+        "name": "Admin",
+        "email": "admin@admin.com",
+        "password": "Admin@123",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6ImFkbWluIGFkbWluIiwiaWF0IjoyfQ.wMqeSFDnBMl6aqWyrT0rpooh0PQbb9FOeofeuS1unlA"
+    },
+    {
+        "name": "Lorem Ipsum",
+        "email": "lorem@example.com",
+        "password": "Lorem@123",
+        "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiIxMjM0NTY3ODkiLCJuYW1lIjoibG9yZW0gaXBzdW0iLCJpYXQiOjN9.7jJG4wWsk1-lE32VA_YBTQD72fQDYZ6rbVjLNx37SoY"
+    }
+]
